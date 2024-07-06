@@ -1,2 +1,2 @@
 # Welcome to OpenBook Robotics!
-![Logo](../logo.png?raw=true "Title")
+![Logo](Logo with background Orange.png)
